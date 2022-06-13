@@ -1,2 +1,2 @@
 console.log('Hello world')
-console.log('Ready for version 3')
+console.log('Now we are using v4.0')
